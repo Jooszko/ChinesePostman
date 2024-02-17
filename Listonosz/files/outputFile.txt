@@ -1,0 +1,9 @@
+1 2  Marii Skłodowskiej-Curie
+2 3  Akademicka
+3 1  ulica
+1 4  Łużycka
+4 3  Bolesława Krzywoustego
+3 5  Akademicka
+5 6  Wrocławska
+6 4  Łużycka
+4 1  Łużycka
